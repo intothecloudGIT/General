@@ -1,0 +1,1 @@
+(&(objectCategory=Person)(objectClass=User)(lockoutTime>=1))
